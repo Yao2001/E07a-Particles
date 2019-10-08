@@ -21,3 +21,5 @@ Your assignment is to choose one of the following: fire, smoke, rain, explosion
 Adjust the parameters to generate particles that resemble what you have chosen when the user pushes the mouse button.
 
 As always, edit the LICENSE and README.md.
+
+This is a game we can play with the particles. I choose ten colors and trace. When we click the mouse, the particles will appear, and the particles will move away in a decay size.
